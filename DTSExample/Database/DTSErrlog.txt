@@ -1,0 +1,103 @@
+
+****************************************************************************************************
+The execution of the following DTS Package failed: 
+
+Error Source: Microsoft Data Transformation Services (DTS) Package
+Error Description:Execution was canceled by user.
+Error code: 80040427\Error Help File:sqldts.hlp
+Error Help Context ID:700
+
+
+Package Name: TransferVolToMDB
+Package Description: WinSort Access Volume Insert
+Package ID: {95F35DD4-3A3D-421C-ADD5-5547EC4FB105}
+Package Version: {95F35DD4-3A3D-421C-ADD5-5547EC4FB105}
+Package Execution Lineage: {D2187EB0-0910-4384-9896-41B9A5DEC4B5}
+Executed On: ICE
+Executed By: jester
+Execution Started: 12/29/2001 8:54:05 AM
+Execution Completed: 12/29/2001 8:54:13 AM
+
+Package Steps execution information:
+
+Step 'STEP01_INSERT_NEW_RECORDS' succeeded
+Step 'STEP02_DELETE_TEMP_RECORDS' succeeded
+Step 'STEP03_INSERT_UPDATE_RECORDS' succeeded
+Step 'STEP04_UPDATE_DEST_TABLE' was not executed
+****************************************************************************************************
+The execution of the following DTS Package succeeded: 
+
+Package Name: TransferVolToMDB
+Package Description: WinSort Access Volume Insert
+Package ID: {87555E14-5B2E-47F7-A119-C01A29FCCB45}
+Package Version: {87555E14-5B2E-47F7-A119-C01A29FCCB45}
+Package Execution Lineage: {DBCF39F7-4D2A-4645-8E68-2D4455EA8F0F}
+Executed On: ICE
+Executed By: jester
+Execution Started: 12/29/2001 8:55:03 AM
+Execution Completed: 12/29/2001 8:55:12 AM
+
+Package Steps execution information:
+
+Step 'STEP01_INSERT_NEW_RECORDS' succeeded
+Step 'STEP02_DELETE_TEMP_RECORDS' succeeded
+Step 'STEP03_INSERT_UPDATE_RECORDS' succeeded
+Step 'STEP04_UPDATE_DEST_TABLE' succeeded
+****************************************************************************************************
+The execution of the following DTS Package succeeded: 
+
+Package Name: TransferVolToMDB
+Package Description: WinSort Access Volume Insert
+Package ID: {6A9FDC2A-6A05-4CD0-ABF1-7D8E232F537F}
+Package Version: {6A9FDC2A-6A05-4CD0-ABF1-7D8E232F537F}
+Package Execution Lineage: {7B789E4E-2D67-41A0-ACBD-ED90136979F1}
+Executed On: ICE
+Executed By: jester
+Execution Started: 12/29/2001 8:58:14 AM
+Execution Completed: 12/29/2001 8:58:25 AM
+
+Package Steps execution information:
+
+Step 'STEP01_INSERT_NEW_RECORDS' succeeded
+Step 'STEP02_DELETE_TEMP_RECORDS' succeeded
+Step 'STEP03_INSERT_UPDATE_RECORDS' succeeded
+Step 'STEP04_UPDATE_DEST_TABLE' succeeded
+****************************************************************************************************
+The execution of the following DTS Package succeeded: 
+
+Package Name: TransferVolToMDB
+Package Description: WinSort Access Volume Insert
+Package ID: {11C3170A-A066-448A-A387-622250E48B6F}
+Package Version: {11C3170A-A066-448A-A387-622250E48B6F}
+Package Execution Lineage: {0A29DE64-D576-4ABA-9DF2-40131801249C}
+Executed On: ICE
+Executed By: jester
+Execution Started: 12/29/2001 8:58:49 AM
+Execution Completed: 12/29/2001 8:59:01 AM
+
+Package Steps execution information:
+
+Step 'STEP01_INSERT_NEW_RECORDS' succeeded
+Step 'STEP02_DELETE_TEMP_RECORDS' succeeded
+Step 'STEP03_INSERT_UPDATE_RECORDS' succeeded
+Step 'STEP04_UPDATE_DEST_TABLE' succeeded
+****************************************************************************************************
+The execution of the following DTS Package succeeded: 
+
+Package Name: TransferVolToMDB
+Package Description: WinSort Access Volume Insert
+Package ID: {EFDE43BB-32C7-4116-984C-A078816B910C}
+Package Version: {EFDE43BB-32C7-4116-984C-A078816B910C}
+Package Execution Lineage: {2E6E485A-5E29-4A88-9E70-98027755E09F}
+Executed On: ICE
+Executed By: jester
+Execution Started: 12/29/2001 9:00:47 AM
+Execution Completed: 12/29/2001 9:01:01 AM
+
+Package Steps execution information:
+
+Step 'STEP01_INSERT_NEW_RECORDS' succeeded
+Step 'STEP02_DELETE_TEMP_RECORDS' succeeded
+Step 'STEP03_INSERT_UPDATE_RECORDS' succeeded
+Step 'STEP04_UPDATE_DEST_TABLE' succeeded
+****************************************************************************************************
